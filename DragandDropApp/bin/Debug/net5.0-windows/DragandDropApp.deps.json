@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
+      "DragandDropApp/1.0.0": {
+        "dependencies": {
+          "Control.Draggable": "1.0.5049.269"
+        },
+        "runtime": {
+          "DragandDropApp.dll": {}
+        }
+      },
       "Control.Draggable/1.0.5049.269": {
         "runtime": {
           "lib/net35-Client/Control.Draggable.dll": {
@@ -17,6 +25,11 @@
     }
   },
   "libraries": {
+    "DragandDropApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Control.Draggable/1.0.5049.269": {
       "type": "package",
       "serviceable": true,
