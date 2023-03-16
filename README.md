@@ -1,2 +1,2 @@
 # WindowsFormApps
-This repo contains a mini project using C# Windows Form.
+This Repo contains a mini projects using C# Windows Form.
