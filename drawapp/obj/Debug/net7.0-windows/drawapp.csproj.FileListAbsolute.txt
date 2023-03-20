@@ -1,0 +1,17 @@
+F:\my-githup\WindowsFormApps\drawapp\bin\Debug\net7.0-windows\drawapp.exe
+F:\my-githup\WindowsFormApps\drawapp\bin\Debug\net7.0-windows\drawapp.deps.json
+F:\my-githup\WindowsFormApps\drawapp\bin\Debug\net7.0-windows\drawapp.runtimeconfig.json
+F:\my-githup\WindowsFormApps\drawapp\bin\Debug\net7.0-windows\drawapp.dll
+F:\my-githup\WindowsFormApps\drawapp\bin\Debug\net7.0-windows\drawapp.pdb
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.csproj.AssemblyReference.cache
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.Form1.resources
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.csproj.GenerateResource.cache
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.AssemblyInfoInputs.cache
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.AssemblyInfo.cs
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.csproj.CoreCompileInputs.cache
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.dll
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\refint\drawapp.dll
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.pdb
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\drawapp.genruntimeconfig.cache
+F:\my-githup\WindowsFormApps\drawapp\obj\Debug\net7.0-windows\ref\drawapp.dll
