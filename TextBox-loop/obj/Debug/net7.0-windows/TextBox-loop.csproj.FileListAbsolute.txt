@@ -1,0 +1,17 @@
+F:\my-githup\WindowsFormApps\TextBox-loop\bin\Debug\net7.0-windows\TextBox-loop.exe
+F:\my-githup\WindowsFormApps\TextBox-loop\bin\Debug\net7.0-windows\TextBox-loop.deps.json
+F:\my-githup\WindowsFormApps\TextBox-loop\bin\Debug\net7.0-windows\TextBox-loop.runtimeconfig.json
+F:\my-githup\WindowsFormApps\TextBox-loop\bin\Debug\net7.0-windows\TextBox-loop.dll
+F:\my-githup\WindowsFormApps\TextBox-loop\bin\Debug\net7.0-windows\TextBox-loop.pdb
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.csproj.AssemblyReference.cache
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox_loop.Form1.resources
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.csproj.GenerateResource.cache
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.AssemblyInfoInputs.cache
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.AssemblyInfo.cs
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.csproj.CoreCompileInputs.cache
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.dll
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\refint\TextBox-loop.dll
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.pdb
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\TextBox-loop.genruntimeconfig.cache
+F:\my-githup\WindowsFormApps\TextBox-loop\obj\Debug\net7.0-windows\ref\TextBox-loop.dll
