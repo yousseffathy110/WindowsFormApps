@@ -11,20 +11,20 @@ namespace TextBox_loop
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // create an empty array to store the textboxes
-            TextBox[] textBoxArray = new TextBox[0];
+            //// create an empty array to store the textboxes
+            //TextBox[] textBoxArray = new TextBox[0];
 
-            // loop over all the controls on the form
-            foreach (Control control in this.Controls)
-            {
-                // check if the control is a TextBox
-                if (control is TextBox)
-                {
-                    // resize the textBoxArray and add the TextBox to it
-                    Array.Resize(ref textBoxArray, textBoxArray.Length + 1);
-                    textBoxArray[textBoxArray.Length - 1] = (TextBox)control;
-                }
-            }
+            //// loop over all the controls on the form
+            //foreach (Control control in this.Controls)
+            //{
+            //    // check if the control is a TextBox
+            //    if (control is TextBox)
+            //    {
+            //        // resize the textBoxArray and add the TextBox to it
+            //        Array.Resize(ref textBoxArray, textBoxArray.Length + 1);
+            //        textBoxArray[textBoxArray.Length - 1] = (TextBox)control;
+            //    }
+            //}
         }
 
         private void submitButton_Click_1(object sender, EventArgs e)
