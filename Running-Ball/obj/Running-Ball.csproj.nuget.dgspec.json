@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\my-githup\\WindowsFormApps\\Running-Ball\\Running-Ball.csproj": {}
+    "F:\\my-githup\\WindowsFormApps\\Running-ball\\Running-Ball.csproj": {}
   },
   "projects": {
-    "F:\\my-githup\\WindowsFormApps\\Running-Ball\\Running-Ball.csproj": {
+    "F:\\my-githup\\WindowsFormApps\\Running-ball\\Running-Ball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\my-githup\\WindowsFormApps\\Running-Ball\\Running-Ball.csproj",
+        "projectUniqueName": "F:\\my-githup\\WindowsFormApps\\Running-ball\\Running-Ball.csproj",
         "projectName": "Running-Ball",
-        "projectPath": "F:\\my-githup\\WindowsFormApps\\Running-Ball\\Running-Ball.csproj",
+        "projectPath": "F:\\my-githup\\WindowsFormApps\\Running-ball\\Running-Ball.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\my-githup\\WindowsFormApps\\Running-Ball\\obj\\",
+        "outputPath": "F:\\my-githup\\WindowsFormApps\\Running-ball\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
