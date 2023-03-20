@@ -34,10 +34,10 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(128, 77);
+            pictureBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            pictureBox1.Location = new Point(-4, -1);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(451, 288);
-            pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox1.Size = new Size(804, 449);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
@@ -51,7 +51,6 @@
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion

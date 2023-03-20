@@ -4,14 +4,14 @@ namespace drawapp
     {
         private bool isDrawing = false;
         private Point lastPoint;
-        private Pen pen = new Pen(Color.Black, 2);
+        private Pen pen = new Pen(Color.Black, 5);
         public Form1()
         {
             InitializeComponent();
             pictureBox1.MouseDown += pictureBox1_MouseDown;
             pictureBox1.MouseMove += pictureBox1_MouseMove;
             pictureBox1.MouseUp += pictureBox1_MouseUp;
-           
+
         }
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
         {
@@ -28,11 +28,21 @@ namespace drawapp
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
-            if (isDrawing && e.Button == MouseButtons.Left)
+            if (isDrawing)
             {
-                Graphics g = pictureBox1.CreateGraphics();
-                g.DrawLine(pen, lastPoint, e.Location);
-                lastPoint = e.Location;
+                if (e.Button == MouseButtons.Left)
+                {
+                    Graphics g = pictureBox1.CreateGraphics();
+                    g.DrawLine(pen, lastPoint, e.Location);
+                    lastPoint = e.Location;
+                }
+                else if (e.Button == MouseButtons.Right)
+                {
+                    Graphics g = pictureBox1.CreateGraphics();
+                    Pen eraser = new Pen(pictureBox1.BackColor, 10);
+                    g.DrawLine(eraser, lastPoint, e.Location);
+                    lastPoint = e.Location;
+                }
             }
         }
 
