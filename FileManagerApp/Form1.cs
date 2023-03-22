@@ -56,7 +56,12 @@ namespace FileManagerApp
 
         private void btnCreateFile_Click_1(object sender, EventArgs e)
         {
-            string fileName = $"NewFile_{DateTime.Now.ToString("yyyyMMdd_HHmmss")}.txt";
+            //string fileName = $"NewFile_{DateTime.Now.ToString("yyyyMMdd_HHmmss")}.txt";
+            string fileName = Microsoft.VisualBasic.Interaction.InputBox("Enter a filename:", "Create File", "NewFile.txt");
+            if (string.IsNullOrWhiteSpace(fileName))
+            {
+                return;
+            }
             string filePath = Path.Combine(txtPath.Text, fileName);
 
             File.Create(filePath).Close();
@@ -65,7 +70,12 @@ namespace FileManagerApp
 
         private void btnCreateFolder_Click_1(object sender, EventArgs e)
         {
-            string folderName = $"NewFolder_{DateTime.Now.ToString("yyyyMMdd_HHmmss")}";
+            //string folderName = $"NewFolder_{DateTime.Now.ToString("yyyyMMdd_HHmmss")}";
+            string folderName = Microsoft.VisualBasic.Interaction.InputBox("Enter a folder name:", "Create Folder", "NewFolder");
+            if (string.IsNullOrWhiteSpace(folderName))
+            {
+                return;
+            }
             string folderPath = Path.Combine(txtPath.Text, folderName);
 
             Directory.CreateDirectory(folderPath);
