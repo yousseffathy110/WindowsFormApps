@@ -1,0 +1,17 @@
+F:\my-githup\WindowsFormApps\FileManagerApp\bin\Debug\net7.0-windows\FileManagerApp.exe
+F:\my-githup\WindowsFormApps\FileManagerApp\bin\Debug\net7.0-windows\FileManagerApp.deps.json
+F:\my-githup\WindowsFormApps\FileManagerApp\bin\Debug\net7.0-windows\FileManagerApp.runtimeconfig.json
+F:\my-githup\WindowsFormApps\FileManagerApp\bin\Debug\net7.0-windows\FileManagerApp.dll
+F:\my-githup\WindowsFormApps\FileManagerApp\bin\Debug\net7.0-windows\FileManagerApp.pdb
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.csproj.AssemblyReference.cache
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.Form1.resources
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.csproj.GenerateResource.cache
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.AssemblyInfoInputs.cache
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.AssemblyInfo.cs
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.csproj.CoreCompileInputs.cache
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.dll
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\refint\FileManagerApp.dll
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.pdb
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\FileManagerApp.genruntimeconfig.cache
+F:\my-githup\WindowsFormApps\FileManagerApp\obj\Debug\net7.0-windows\ref\FileManagerApp.dll
