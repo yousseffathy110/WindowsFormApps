@@ -1,0 +1,90 @@
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.exe
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.deps.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.Form1.resources
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\refint\WinFormsApp4.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\ref\WinFormsApp4.dll
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.exe
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.deps.json
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.Form1.resources
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\refint\WinFormsApp4.dll
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\nabil\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\ref\WinFormsApp4.dll
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.exe
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.deps.json
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.Form1.resources
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.dll
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\refint\WinFormsApp4.dll
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.pdb
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\nabil\Desktop\College\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\ref\WinFormsApp4.dll
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.exe
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.deps.json
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.json
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.dev.json
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.dll
+E:\WinFormsApp4\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.pdb
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.Form1.resources
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfo.cs
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.dll
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\refint\WinFormsApp4.dll
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.pdb
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.genruntimeconfig.cache
+E:\WinFormsApp4\WinFormsApp4\obj\Debug\net5.0-windows\ref\WinFormsApp4.dll
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.exe
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.deps.json
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.json
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.runtimeconfig.dev.json
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.dll
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\bin\Debug\net5.0-windows\WinFormsApp4.pdb
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.Form1.resources
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.AssemblyInfo.cs
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.dll
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\refint\WinFormsApp4.dll
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.pdb
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\WinFormsApp4.genruntimeconfig.cache
+F:\my-githup\WindowsFormApps\RollingBall\WinFormsApp4\obj\Debug\net5.0-windows\ref\WinFormsApp4.dll

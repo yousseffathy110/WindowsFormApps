@@ -1,0 +1,72 @@
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\refint\WinFormsApp3.dll
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\nabil\source\repos\System of Equations Solver\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\refint\WinFormsApp3.dll
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\nabil\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\refint\WinFormsApp3.dll
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\nabil\Desktop\College\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+E:\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\refint\WinFormsApp3.dll
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+E:\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
